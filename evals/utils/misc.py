@@ -1,5 +1,5 @@
 """
-This file defines miscellanous utilities.
+This file defines miscellaneous utilities.
 """
 import functools
 import importlib
